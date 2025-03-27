@@ -19,9 +19,6 @@ This project performs sentiment analysis using Natural Language Processing (NLP)
 - Scikit-learn (Machine Learning Models)
 - Matplotlib, Seaborn (Data Visualization)
 
-## 📷 Project Screenshots
-(Screenshots of the solution running should be added here.)
-
 ## 📊 Data Presentation
 The results are visualized using:
 - Confusion Matrix
